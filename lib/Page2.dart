@@ -90,7 +90,7 @@ class Page2 extends StatelessWidget {
                             ),
                             SizedBox(height: 10),
                             Text(
-                              "I graduated from SDN Cisarua 01 in 2018, and during elementary school I won a table tennis competition in Cisarua sub-district. Then in 2022 I graduated from junior high school, during junior high school I was the head of the scout organization and participated in several scout competitions. And now I am a student at SMK Wikrama Bogor, my experience at SMK is currently participating in several scouting competitions, in scouting I am responsible for organizing scouting activities, I also like to participate in several events about my major, namely software and game development.",
+                              "I graduated from SDN Cisarua 01 in 2018. Then in 2022 I graduated from junior high school. And now I am a student at SMK Wikrama Bogor, my experience at SMK is currently participating in several scouting competitions, I also like to participate in several events about my major, namely software and game development.",
                               textAlign: TextAlign.justify,
                               style: TextStyle(fontSize: 18, color: Colors.black),
                             ),
